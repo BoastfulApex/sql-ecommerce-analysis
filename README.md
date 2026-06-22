@@ -77,6 +77,6 @@ Yetkazib berish muddati uzun bo'lgan buyurtmalarda reyting pastligi tasdiqlandi 
 
 ---
 
-## 👤 Muallif
+## 👤 Muallif Jahongir Normo'minov
 
-**Data Analytics kursi — 1-hafta yakuniy loyiha**
+
